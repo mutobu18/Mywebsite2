@@ -1,0 +1,32 @@
+body{
+
+    font-family: arial,sans-serif;
+
+}
+
+body ,ul{
+    margin:0;
+    padding:0;
+}
+
+header{
+
+    background-color:#fff;
+    position :fixed;
+    width:100%;
+    top:0;
+    z-index:1000;
+}
+
+nav ul li{
+     margin: 0 1rem;
+}
+
+nav ul li a:hover{
+    color:#000;
+}
+
+main{
+
+    padding-top:60px;
+}
